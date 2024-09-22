@@ -135,3 +135,17 @@ dist
 /backend/data/
 /frontend/.env
 /backend/.env
+
+# Node modules
+node_modules/
+
+# Data directory
+data/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
